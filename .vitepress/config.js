@@ -21,13 +21,36 @@ export default {
     },
 }
 
+function get09TIL(){
+  return {
+    text: 'TIL',
+    collapsible: true,
+    items: [
+      
+      {text: '2022/09/09', link: '/TIL/202209/20220909'},
+      
+      
+     
+    ]
+  }
+}
 
 function getSidebar(){
   return {
    
-    
+    '/TIL/202209':[
+      get09TIL(),
+    ],
  
-    
+    "/":[
+      {
+        text: 'TIL📖',
+        collapsible: true,
+        items: [
+          
+          { text: '2022년09월', link: '/TIL/202209/202209'},
+        ]}
+      ],
   };
 }
 function getNav(){
@@ -42,7 +65,7 @@ function getNav(){
       items: [
         {
           text:'TIL',
-          link:"/TIL/202206/202206",
+          link:"/TIL/202209/202209",
           activeMatch: "/TIL/",
         },
         {
