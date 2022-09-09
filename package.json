@@ -1,28 +1,18 @@
+
 {
-  "name": "",
+  "name": "vitepress-theme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vitepress dev",
-    "build": "vitepress build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jisoo03010/jisoo03010.github.io.git"
+      "dev": "vitepress dev",
+      "build": "vitepress build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jisoo03010/jisoo03010.github.io/issues"
-  },
-  "homepage": "https://github.com/jisoo03010/jisoo03010.github.io#readme",
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.4"
-  },
   "dependencies": {
-    "vitepress-simple-theme": "^0.4.0"
+      "vitepress": "^1.0.0-alpha.4",
+      "vitepress-simple-theme": "^0.4.0"
   }
-} 
+}
