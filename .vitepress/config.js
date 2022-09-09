@@ -5,7 +5,6 @@ const rootDir = path.resolve(__dirname, "../");
 const mdDir = path.resolve(rootDir, "docs");
 
 export default {
-    base: '/TIL/',
     title: "지수",
     description: 'A VitePress site',
     srcDir : mdDir,
