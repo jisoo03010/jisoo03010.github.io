@@ -3,16 +3,11 @@ title:
 createBy: 2022-06-26
 ---
 
-## Birthday 🎉
-#### 2004년12월29일
-## Profile 📖
-#### 서울디지텍고등학교(2020.03.01~)
+# 후회하지 않을 만큼 공부하기
+--
+## Birthday 👼🏻
+#### 2004년 3월 10일
 
-## Awards 🏆
-#### 지방기능경기대회 (2022.04.04~2022.04.08) 은메달🥈
-#### 전국기능경기대회 (2022.08.29~2022.09.02) 우수상 😂
 
-## SNS📱
-#### [instargram](https://www.instagram.com/kimjuneseo/)
-
-#### [github](https://github.com/kimjuneseo) 
+#### [instargram](https://www.instagram.com/sooo._.jii/)
+#### [github](https://github.com/jisoo03010) 
