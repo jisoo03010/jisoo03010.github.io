@@ -67,16 +67,6 @@ function getNav(){
           link:"/TIL/202209/202209",
           activeMatch: "/TIL/",
         },
-        {
-          text:'회고',
-          link:"/TIL/202206/20220608",
-          activeMatch: "/TIL/",
-        },
-        {
-          text:'기능경기대회',
-          link:"/webskills/problemRank",
-          activeMatch: "/webskills/",
-        },
       ]
     }
   ]
