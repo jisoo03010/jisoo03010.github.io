@@ -26,7 +26,7 @@ function get09TIL(){
     collapsible: true,
     items: [
       
-      {text: '2022/09/09', link: '/TIL/202209/20220909'},
+      {text: '2022/09/09', link: '/TIL/202209/202209'},
       
       
      
