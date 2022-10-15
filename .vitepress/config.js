@@ -27,9 +27,6 @@ function get09TIL(){
     items: [
       
       {text: '2022/09/09', link: '/TIL/202209/202209'},
-      
-      
-     
     ]
   }
 }
